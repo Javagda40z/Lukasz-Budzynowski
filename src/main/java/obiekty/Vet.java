@@ -18,6 +18,6 @@ public class Vet {
 
         Vet weterynarz = new Vet();
         weterynarz.sayHello(kot);
-        weterynarz.sayHello();
+        weterynarz.sayHello(pies);
     }
 }
